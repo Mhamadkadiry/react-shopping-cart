@@ -5,7 +5,7 @@ export const Wrapper = styled.aside`
     width: 500px;
     padding: 20px;
     @media screen and (max-width:500px){
-        width: 100%;
-        padding: 10px;
+        width: 300px;
+        padding: 5px;
     }
 `
